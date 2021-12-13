@@ -62,6 +62,16 @@ namespace Lection5_New
             return array;
         }
 
+        static void Task1()
+        {
+            //
+        }
+
+        static void Task2()
+        {
+            //
+        }
+
         static void Main(string[] args)
         {
         }
