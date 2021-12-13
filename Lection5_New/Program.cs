@@ -64,8 +64,6 @@ namespace Lection5_New
 
         static void Main(string[] args)
         {
-            int[] arr = new int[10];
-
         }
     }
 }
