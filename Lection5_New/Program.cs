@@ -65,7 +65,15 @@ namespace Lection5_New
         static void Main(string[] args)
         {
             int[] arr = new int[10];
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = i;
+            }
 
+            foreach (var item in arr)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
